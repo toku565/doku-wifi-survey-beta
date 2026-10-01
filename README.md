@@ -2,6 +2,8 @@
   <img src="icon.png" width="96" height="96" alt="Doku WiFi Survey のアイコン">
 </p>
 
+**日本語** | [English](README.en.md)
+
 # Doku WiFi Survey（β 版）
 
 周りの Wi-Fi（アクセスポイント）を一覧とグラフで見られる Windows アプリです。
